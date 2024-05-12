@@ -1,6 +1,6 @@
-# Fullstack Task Manager (MERN)
+# Taskify - A Team Collaboration Tool 
 
-
+## Full Stack Project using MERN
 
 # Overview
 The Cloud-Based Task Manager is a web application designed to streamline team task management. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this platform provides a user-friendly interface for efficient task assignment, tracking, and collaboration. The application caters to administrators and regular users, offering comprehensive features to enhance productivity and organization.
